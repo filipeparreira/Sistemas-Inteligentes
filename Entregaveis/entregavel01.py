@@ -56,3 +56,6 @@ objetivo = 'E'
 
 resultado = busca_retrocesso(grafo, inicial)
 print("Caminho encontrado:", resultado)
+
+
+#Comentario teste commit
